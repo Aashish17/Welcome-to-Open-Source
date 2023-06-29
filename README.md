@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Aashish17">
+                    <img src="https://avatars.githubusercontent.com/u/61770208?v=4" width="100px;" alt="Kaushal Lohar"/>
+                    <br />
+                    <sub><b>Aashish Kanesh</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
